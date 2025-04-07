@@ -3,7 +3,7 @@
 ## Overview
 This application uses natural language processing to analyze the emotional tone (sentiment) of text input. Built with Python, it leverages Hugging Face's Transformers library for sentiment analysis and Gradio for the interactive web interface.
 
-![Sentiment Analysis App](https://via.placeholder.com/800x450?text=Sentiment+Analysis+App)
+![Sentiment Analysis App](ui.png)
 
 ## Features
 - Real-time sentiment analysis of text input
