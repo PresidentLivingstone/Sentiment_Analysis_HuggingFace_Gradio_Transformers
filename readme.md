@@ -20,13 +20,13 @@ This application uses natural language processing to analyze the emotional tone 
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/yourusername/sentiment-analysis-app.git
-cd sentiment-analysis-app
+git clone https://github.com/PresidentLivingstone/Sentiment_Analysis_HuggingFace_Gradio_Transformers
+cd  Sentiment_Analysis_HuggingFace_Gradio_Transformers
 ```
 
 ### Step 2: Install dependencies
 ```bash
-pip install --upgrade gradio transformers torch matplotlib
+pip install requirements.txt
 ```
 
 ### Step 3: Run the application
